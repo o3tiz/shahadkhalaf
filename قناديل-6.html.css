@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body {
+    background-color: #D5D5D5;
+}
+body h3 {
+    text-align: center;
+    padding-right: 67px;
+    padding-left: 32px;
+    padding-bottom: 28px;
+    color: #CB7D7D;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.row.mt-2 br {
+    text-align: right;
+    margin-right: -21px;
+}

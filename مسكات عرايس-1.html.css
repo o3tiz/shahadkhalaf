@@ -1,0 +1,21 @@
+@charset "UTF-8";
+.row hr {
+    margin-right: 65px;
+}
+body h3 {
+    color: #CB7D7D;
+    text-align: center;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.nav a {
+    padding-right: 8px;
+    margin-bottom: 19px;
+    margin-left: 213px;
+    margin-right: -109px;
+    margin-top: 15px;
+}
+body {
+    background-color: #D5D5D5;
+}
+.row.mt-2 .col-md-3.col-6.mt-md-0.mt-1 .img-fluid.float-left {
+}

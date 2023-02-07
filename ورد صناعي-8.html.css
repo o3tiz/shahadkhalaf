@@ -1,0 +1,27 @@
+@charset "UTF-8";
+.nav a {
+    margin-top: 15px;
+    margin-left: 213px;
+    margin-right: -109px;
+    margin-bottom: 19px;
+    padding-right: 8px;
+}
+body h3 {
+    color: #CB7D7D;
+    text-align: center;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.col-md-4.col-12 .text-right {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: right;
+    padding-right: 5px;
+    padding-left: 3px;
+    margin-right: -264px;
+    margin-left: 210px;
+}
+body {
+    background-color: #D5D5D5;
+}
+
+@media screen{
+}

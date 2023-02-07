@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body h3 {
+    text-align: center;
+    color: #CB7D7D;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+body {
+    background-color: #D5D5D5;
+}
+.nav a {
+    padding-right: 8px;
+    margin-right: -109px;
+    margin-left: 213px;
+    margin-top: 15px;
+    margin-bottom: 19px;
+}
